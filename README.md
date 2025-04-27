@@ -30,7 +30,7 @@ A React-based dashboard for monitoring and reporting AI safety incidents at Huma
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-safety-dashboard.git
+git clone https://github.com/Sachinrajawat/AI-Safety-Incident-Dashboard.git
 cd ai-safety-dashboard
 ```
 
